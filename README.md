@@ -392,7 +392,7 @@ Refer to the course Google Sheet for the demo schedule and deadline.
 4. **Don't over-engineer the Green phase.** The ugliest code that makes the tests pass is fine. That's what Refactor is for.
 5. **The refactor step is NOT optional.** "I refactored the code" is not a commit message. Name the specific change: what you extracted, renamed, or removed and why.
 6. **Your CI pipeline is your witness.** If your Red commits don't show a failing run on GitHub, there is no evidence that you wrote tests first.
-7. **The calculator example on the course portal** (`calculator_testing_example.md`) walks through the full Red-Green-Refactor cycle for all three levels using the React + Express stack. Use it as a reference — but don't copy it for your submission.
+7. **The calculator example in the same repo** (`calculator_testing_example.md`) walks through the full Red-Green-Refactor cycle for all three levels using the React + Express stack. Use it as a reference — but don't copy it for your submission.
 
 ---
 
